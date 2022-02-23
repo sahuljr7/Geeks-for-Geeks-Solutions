@@ -1,4 +1,4 @@
-// https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case/0#:~:text=Given%20a%20string%20str%20containing,same%20letters%2C%20but%20in%20uppercase.&text=Your%20Task%3A,and%20returns%20the%20resultant%20string.
+// https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1
 
 // { Driver Code Starts
 
